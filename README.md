@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mykhailo Hrynkevych, a passionate Software Developer based in Giethoorn, Netherlands. I specialize in building user interfaces using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
+I'm Mykhailo Hrynkevych, a passionate Software Developer based in Netherlands. I specialize in building user interfaces using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **CGS Team** as a Software Developer.
