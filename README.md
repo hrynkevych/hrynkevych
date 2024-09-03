@@ -42,7 +42,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 - collaborated with team members to ensure cohesive integration of various components and maintained effective communication throughout the project lifecycle.
 
 **WeCare App, Junior Full Stack Developer (intern)**  
-*December 2023 - April 2024*
+*November 2023 - April 2024*
 
 - in-depth study of the web app project build, gaining comprehensive knowledge of its architecture and functionalities, enhancing my understanding and application of full stack development principles;
 
@@ -53,7 +53,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 - worked with senior developers.
 
 **Self-employed, Full Stack Developer**  
-*January 2023 - November 2023* 
+*January 2023 - October 2023* 
 
 - developed a dynamic and responsive React web applications for pet projects, showcasing my ability to deliver high-quality, user-friendly web solutions;
 
