@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mykhailo Hrynkevych, Full Stack Developer based in Netherlands. I specialize, mainly, in building user interfaces using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
+I'm Mykhailo Hrynkevych, Full Stack Developer based in Netherlands. I specialize, mainly, in building apps using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
 
 ### 🚀 About Me
 
