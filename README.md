@@ -4,7 +4,7 @@ I'm Mykhailo Hrynkevych, Full Stack Developer based in Netherlands. I specialize
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **CGS Team** as a **Full Stack Developer**.
+- 🔭 I’m a **Full Stack Developer**.
 - 👯 I’m looking to collaborate on **React projects**.
 - 📫 How to reach me: **mgrynkevych@outlook.com**
 - 😄 Pronouns: **he/him**
