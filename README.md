@@ -31,7 +31,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 ### 💼 Professional Experience
 
 **CGS-team, Full Stack Developer** 
-*April 2024 - present*
+*April 2024 - November 2024*
 
 - worked on the development of a web application for a client, using the following tech stack: Prisma ORM, Nest.js, Next.js, React, TypeScript, React Final Form, React Spectrum & React Aria, Zustand, SASS modules;
 
@@ -41,7 +41,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 
 - collaborated with team members to ensure cohesive integration of various components and maintained effective communication throughout the project lifecycle.
 
-**WeCare App, Junior Full Stack Developer (intern)**  
+**WeCare App, Full Stack Developer**  
 *November 2023 - April 2024*
 
 - in-depth study of the web app project build, gaining comprehensive knowledge of its architecture and functionalities, enhancing my understanding and application of full stack development principles;
