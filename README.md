@@ -30,8 +30,11 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 
 ### 💼 Professional Experience
 
+**Lumitech, Full Stack Developer** 
+*December 2024 - present*
+
 **CGS-team, Full Stack Developer** 
-*April 2024 - September 2024*
+*April 2024 - December 2024*
 
 - worked on the development of a web application for a client, using the following tech stack: Prisma ORM, Nest.js, Next.js, React, TypeScript, React Final Form, React Spectrum & React Aria, Zustand, SASS modules;
 
