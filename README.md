@@ -33,6 +33,14 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 **Lumitech, Full Stack Developer** 
 *December 2024 - present*
 
+- developed frontend and backend modules using Next.js, NestJS, ShadCN, and Tailwind CSS;
+  
+- developed independent frontend modules;
+  
+- integrated an independent OpenAI service to handle GPT requests;
+  
+- contributed to the authentication module;
+
 **CGS-team, Full Stack Developer** 
 *April 2024 - December 2024*
 
