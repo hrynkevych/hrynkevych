@@ -53,7 +53,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 - collaborated with team members to ensure cohesive integration of various components and maintained effective communication throughout the project lifecycle.
 
 **WeCare App, Full Stack Developer**  
-*November 2023 - April 2024*
+*September 2023 - April 2024*
 
 - in-depth study of the web app project build, gaining comprehensive knowledge of its architecture and functionalities, enhancing my understanding and application of full stack development principles;
 
@@ -61,30 +61,23 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 
 - applied acquired knowledge to the development of front-end modules, contributing to the user interface improvements;
 
-- worked with senior developers.
-
 **Self-employed, Full Stack Developer**  
-*January 2023 - October 2023* 
+*August 2022 - August 2023* 
 
-- developed a dynamic and responsive React web applications for pet projects, showcasing my ability to deliver high-quality, user-friendly web solutions;
+- contributed to the development of a React application for a local client;
 
-- demonstrated proficiency in JavaScript, HTML, CSS, and related frameworks through diverse projects available in my GitHub portfolio;
+- built and showcased React web applications for personal portfolio of projects in my GitHub;
 
-- completed an intensive Full Stack Developer bootcamp at MateAcademy, gaining hands-on experience with the latest industry practices and technologies.
+- gained proficiency in JavaScript (TypeScript), HTML, CSS, and related frameworks through hands-on development;
 
-**Career transition, Full Stack Developer**  
-*August 2022 - December 2022*
+- completed an intensive Full Stack Developer bootcamp at MateAcademy and earned a practical certification in React from SoftServe;
 
-- undertook a career transition into software development; earned certifications from Meta and gained practical experience through intensive study at SoftServe, specializing in React;
-
-- developed proficiency in web technologies (HTML, CSS, and JavaScript) and created dynamic and responsive web applications, with a particular emphasis on React.
+- obtained Meta certifications in modern web development.
 
 **Sayenko Kharenko, WTS Consulting / KM Partners, ILF, Junior Associate - Senior Associate (Manager)**  
 *May 2015 - July 2022* 
 
 - advised domestic and international clients, including IT companies, on various legal and tax matters; prepared extensive analytical materials and memoranda for clients; participated in secondment projects within the offices of multinational corporations;
-
-- participated in a significant project for the launch of a special legal framework for the IT business in Ukraine.
 
 ### 💼 Portfolio Projects
 
