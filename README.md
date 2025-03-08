@@ -64,8 +64,6 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 **Self-employed, Full Stack Developer**  
 *August 2022 - August 2023* 
 
-- contributed to the development of a React application for a local client;
-
 - built and showcased React web applications for personal portfolio of projects in my GitHub;
 
 - gained proficiency in JavaScript (TypeScript), HTML, CSS, and related frameworks through hands-on development;
