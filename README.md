@@ -76,6 +76,8 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 *May 2015 - July 2022* 
 
 - advised domestic and international clients, including IT companies, on various legal and tax matters; prepared extensive analytical materials and memoranda for clients; participated in secondment projects within the offices of multinational corporations;
+  
+- one of the most significant projects I participated in involved developing and representing top global IT companies, advising on the legal and tax frameworks that regulate and incentivize all IT businesses in Ukraine.
 
 ### 💼 Portfolio Projects
 
