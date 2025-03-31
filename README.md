@@ -79,7 +79,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
   
 - one of the most significant projects I participated in involved developing and representing top global IT companies, advising on the legal and tax frameworks that regulate and incentivize all IT businesses in Ukraine.
 
-### 💼 Portfolio Projects
+### 💼 Portfolio Personal (Pet) Projects
 
 - **Phone Store React Application**  
   An engaging and informative online platform for a phone store, showcasing various models and accessories.
