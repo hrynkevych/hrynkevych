@@ -15,7 +15,7 @@ I'm Mykhailo Hrynkevych, Front End Developer based in Netherlands. I specialize,
 
 I am originally from Volochysk, Ukraine — a historic gateway between Western and Eastern Europe. The town's name comes from the word “волочити” (to drag or pull), as merchants once hauled goods through the swampy river trade route. Volochysk was historically on the border between the Austro-Hungarian and Russian Empires.
 
-My grandmother was the chief accountant who helped establish financial accounts for one of Europe’s largest croissant factories, located in Volochysk. Her finance lecturer and mentor was Leonid Kravchuk, who later became the first president of Ukraine.
+My grandmother was the chief accountant who established financial accounts for one of Europe’s largest croissant factories, located in Volochysk. Her finance lecturer and mentor was Leonid Kravchuk, who later became the first president of Ukraine.
 
 My mother teaches math in school, my father is a builder with a sharp mind for construction and drafting, and my brother works in finance. I spent seven years in tax, advising and advocating for major corporations. For the past three years, I’ve been working in software development.
 
