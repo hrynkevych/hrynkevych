@@ -33,27 +33,37 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 
 ### 💼 Professional Experience
 
-**Lumitech, Full Stack Developer** 
+**Lumitech, Front-End Developer** 
 *December 2024 - present*
 
-- developed frontend and backend modules using Next.js, NestJS, ShadCN, and Tailwind CSS;
-  
-- developed independent frontend modules;
-  
-- integrated an independent OpenAI service to handle GPT requests;
-  
-- contributed to the authentication module;
+1.1. https://www.proofspot.com/ (SaaS platform):
 
-**CGS-team, Full Stack Developer** 
+- developed UI modules using Next.js, Nest.js, ShadCN, and Tailwind CSS;
+  
+- contributed to both front-end and back-end of the authentication module;
+
+- built a landing page for a client;
+
+- integrated an independent OpenAI-powered service for AI features;
+
+- created standalone back-office modules for content moderation and account management.
+
+1.2. SaaS Platform for High-Yield Savings Accounts with competitive interest rates and CDs from partner banks:
+
+- built a user-friendly platform for the U.S. market and contributed to a redesigned version for Germany;
+  
+- developed lead generation pages and registration forms;
+
+- implemented dashboard UI components.
+
+**CGS-team, Front-End Developer** 
 *April 2024 - December 2024*
 
-- worked on the development of a web application for a client, using the following tech stack: Prisma ORM, Nest.js, Next.js, React, TypeScript, React Final Form, React Spectrum & React Aria, Zustand, SASS modules;
+- developed core front-end and back-end modules for a Next.js/Nest.js application in the property photoshoot industry (https://www.clickmediagroup.co.uk/);
+  
+- developed and contributed to authentication modules (UI & back-end), a landing page, and other app components for a charity contribution platform (https://sxs.com/home);
 
-- identified and resolved bugs, enhancing application stability and performance;
-
-- developed full separate module of the app on both the back end and front end;
-
-- collaborated with team members to ensure cohesive integration of various components and maintained effective communication throughout the project lifecycle.
+- contributed to the UI of authentication module of a Next.js AI chatbot (https://www.xingit.co/);
 
 **WeCare App, Full Stack Developer**  
 *September 2023 - April 2024*
