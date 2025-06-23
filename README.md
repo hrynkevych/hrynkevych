@@ -15,7 +15,9 @@ I'm Mykhailo Hrynkevych, Front End Developer based in Netherlands. I specialize,
 
 **Front-end web development**
 
-HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Redux Toolkit, Zustand
+HTML, CSS (SASS modules), JavaScript, TypeScript, React, Next.js, Redux Toolkit, Zustand, RTK Query, React Query
+
+ShadCN, Tailwind CSS, Emotion CSS, styled-components, Blueprint.js, Material UI
 
 **Back-end web development & databases**
 
