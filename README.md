@@ -36,7 +36,7 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 **Lumitech, Front-End Developer** 
 *December 2024 - present*
 
-1.1. https://www.proofspot.com/ (SaaS platform):
+1.1. SaaS fact-checking platform:
 
 - developed UI modules using Next.js, Nest.js, ShadCN, and Tailwind CSS;
   
