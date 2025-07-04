@@ -13,15 +13,13 @@ I'm Mykhailo Hrynkevych, Front End Developer based in Netherlands. I specialize,
 
 ### 🛠️ Core Skills & Technologies
 
-**Front-end web development**
-
-HTML, CSS (SASS modules), JavaScript, TypeScript, React, Next.js, Redux Toolkit, Zustand, RTK Query, React Query
-
-ShadCN, Tailwind CSS, Emotion CSS, styled-components, Blueprint.js, Material UI
-
-**Back-end web development & databases**
-
-Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, MongoDB
+HTML, CSS (SASS modules), JavaScript, TypeScript
+React, Next.js
+Redux Toolkit, Zustand, RTK Query, React Query
+ShadCN, Tailwind CSS
+React Hook Form, React Final Form, Zod 
+NestJS, Prisma ORM
+Cursor Code Editor, OpenAI API
 
 ### 📈 GitHub Stats
 ![Mykhailo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrynkevych&show_icons=true&theme=radical)
@@ -36,34 +34,34 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 **Lumitech, Front-End Developer** 
 *December 2024 - present*
 
-1.1. SaaS fact-checking platform:
+1.	Financial Investments SaaS Platform for High-Yield Savings Accounts with competitive interest rates and Certificates of Deposits (CDs) from partner banks 
 
-- developed UI modules using Next.js, Nest.js, ShadCN, and Tailwind CSS;
-  
-- contributed to both front-end and back-end of the authentication module;
+-	implemented front-end authentication modules;
+-	developed dashboard pages, lead generation pages, and registration forms.
 
-- built a landing page for a client;
+2.	Fact-Checking SaaS Platform 
 
-- integrated an independent OpenAI-powered service for AI features;
+-	сontributed to the development of a platform designed for verifying digital content and combating misinformation:
+-	developed UI modules using Next.js, ShadCN, and Tailwind CSS;
+-	contributed to both front-end and back-end of the authentication module;
+-	built a landing page for a client;
+-	built a back-office system for content moderation and account management;
+-	integrated OpenAI-powered services on the back-end and connected them with front-end UI modules.
 
-- created standalone back-office modules for content moderation and account management.
-
-1.2. SaaS Platform for High-Yield Savings Accounts with competitive interest rates and CDs from partner banks:
-
-- built a user-friendly platform for the U.S. market and contributed to a redesigned version for Germany;
-  
-- developed lead generation pages and registration forms;
-
-- implemented dashboard UI components.
 
 **CGS-team, Front-End Developer** 
 *April 2024 - December 2024*
 
-- developed core front-end and back-end modules for a Next.js/Nest.js application in the property photoshoot industry (https://www.clickmediagroup.co.uk/);
-  
-- developed and contributed to authentication modules (UI & back-end), a landing page, and other app components for a charity contribution platform (https://sxs.com/home);
+1.	Property Photoshoot Platform 
 
-- contributed to the UI of authentication module of a Next.js AI chatbot (https://www.xingit.co/);
+-	developed core front-end and back-end modules for an administrative platform serving a UK-based property photoshoot company:
+-	built features for managing products, photoshoot services, client service packages, discounts, and coupon systems;
+-	implemented functionality for registering client brands and sub-brands;
+-	contributed to front-end and back-end authentication modules.
+
+2.	Charity Contribution Platform – developed and contributed to authentication modules (UI & back-end), a landing page, and other app components;
+3.	Conversational AI Platform – contributed to the UI of authentication module of a Next.js.
+
 
 **WeCare App, Full Stack Developer**  
 *September 2023 - April 2024*
@@ -90,7 +88,14 @@ Node.js (Express.js), Nest.js, SQL (PostgreSQL client, Sequelize), Prisma ORM, M
 
 - advised domestic and international clients, including IT companies, on various legal and tax matters; prepared extensive analytical materials and memoranda for clients; participated in secondment projects within the offices of multinational corporations;
   
-- one of the most significant projects I participated in involved developing and representing top global IT companies, advising on the legal and tax frameworks that regulate and incentivize all IT businesses in Ukraine.
+- one of the most significant projects I participated in involved developing and representing top global IT companies, advising on the legal and tax frameworks that regulate and incentivize all IT businesses in Ukraine;
+
+- collaborated closely with cross-functional teams to deliver high-quality advisory services for a wide range of industries;
+
+-	applied strong analytical and strategic thinking to resolve complex issues and business structuring challenges;
+
+-	gained broad exposure to diverse sectors, developing deep insight into business operations and client-specific needs.
+
 
 ### 💼 Portfolio Personal (Pet) Projects
 
