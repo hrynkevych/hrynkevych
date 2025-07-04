@@ -13,12 +13,12 @@ I'm Mykhailo Hrynkevych, Front End Developer based in Netherlands. I specialize,
 
 ### 🛠️ Core Skills & Technologies
 
-HTML, CSS (SASS modules), JavaScript, TypeScript
-React, Next.js
-Redux Toolkit, Zustand, RTK Query, React Query
-ShadCN, Tailwind CSS
-React Hook Form, React Final Form, Zod 
-NestJS, Prisma ORM
+HTML, CSS (SASS modules), JavaScript, TypeScript,
+React, Next.js,
+Redux Toolkit, Zustand, RTK Query, React Query,
+ShadCN, Tailwind CSS,
+React Hook Form, React Final Form, Zod,
+NestJS, Prisma ORM,
 Cursor Code Editor, OpenAI API
 
 ### 📈 GitHub Stats
