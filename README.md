@@ -34,12 +34,18 @@ Cursor Code Editor, OpenAI API
 **Lumitech, Front-End Developer** 
 *December 2024 - present*
 
-1.	Financial Investments SaaS Platform for High-Yield Savings Accounts with competitive interest rates and Certificates of Deposits (CDs) from partner banks 
+1. Manufacturing Supply Management Platform for one of the world’s leading AI robotics companies specializing in general-purpose humanoid robots
+
+- built the frontend with Next.js, Shadcn/UI, and Tailwind CSS;
+- implemented a Fastify-based backend API;
+- integrated advanced features for role-based access, document versioning.
+
+2. Financial Investments SaaS Platform for High-Yield Savings Accounts with competitive interest rates and Certificates of Deposits (CDs) from partner banks 
 
 -	implemented front-end authentication modules;
 -	developed dashboard pages, lead generation pages, and registration forms.
 
-2.	Fact-Checking SaaS Platform 
+3. Fact-Checking SaaS Platform 
 
 -	сontributed to the development of a platform designed for verifying digital content and combating misinformation:
 -	developed UI modules using Next.js, ShadCN, and Tailwind CSS;
