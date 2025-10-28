@@ -102,29 +102,6 @@ Cursor Code Editor, OpenAI API
 
 -	gained broad exposure to diverse sectors, developing deep insight into business operations and client-specific needs.
 
-
-### 💼 Portfolio Personal (Pet) Projects
-
-- **Phone Store React Application**  
-  An engaging and informative online platform for a phone store, showcasing various models and accessories.
-  [Demo](https://hrynkevych.github.io/react_phone_app/) | [GitHub](https://github.com/hrynkevych/react_phone_app)
-
-- **E-commerce Store Landing Page**  
-  A structured and visually appealing landing page for a headphones store, implementing BEM methodology.
-  [Demo](https://hrynkevych.github.io/layout_miami/) | [GitHub](https://github.com/hrynkevych/headphones)
-
-- **Cosmetics Brand Landing Page**  
-  A sleek and professional landing page for a cosmetics brand, built with HTML and CSS (SCSS).
-  [Demo](https://hrynkevych.github.io/Eco_cosmetics/) | [GitHub](https://github.com/hrynkevych/eco_cosm)
-
-- **Interactive To-do Notes Application in React**  
-  An intuitive platform for task management, built with React, TypeScript, CSS (SCSS), and React Context for state management.
-  [Demo](https://hrynkevych.github.io/react_todo-app-with-api/) | [GitHub](https://github.com/hrynkevych/react_todo_app)
-
-- **2048 Game in JavaScript**  
-  A web-based implementation of the popular 2048 game, showcasing expertise in JavaScript.
-  [Demo](https://hrynkevych.github.io/js_2048_game/) | [GitHub](https://github.com/hrynkevych/2048_js_game)
-
 ### 🎓 Education
 
 **Computer Software Engineering, Mate Academy**  
