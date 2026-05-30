@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm Mykhailo Hrynkevych, Front End Developer based in Netherlands. I specialize, mainly, in building apps using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
+I'm Mykhailo Hrynkevych, Software Developer based in Netherlands. I specialize, mainly, in building apps using React and TypeScript. With a strong command of English, I excel at collaborating in international environments and working seamlessly with foreign clients to achieve project goals.
 
 ### 🚀 About Me
 
-- 🔭 I’m a **Front End Developer**.
+- 🔭 I’m a **Software Developer**.
 - 👯 I’m looking to collaborate on **React projects**.
 - 📫 How to reach me: **mgrynkevych@outlook.com**
 - 😄 Pronouns: **he/him**
@@ -31,7 +31,7 @@ Cursor Code Editor, OpenAI API
 
 ### 💼 Professional Experience
 
-**Lumitech, Front-End Developer** 
+**Lumitech, Software Developer** 
 *December 2024 - present*
 
 1. Manufacturing Supply Management Platform for one of the world’s leading AI robotics companies specializing in general-purpose humanoid robots
@@ -55,7 +55,7 @@ Cursor Code Editor, OpenAI API
 -	integrated OpenAI-powered services on the back-end and connected them with front-end UI modules.
 
 
-**CGS-team, Front-End Developer** 
+**CGS-team, Software Developer** 
 *April 2024 - December 2024*
 
 1.	Property Photoshoot Platform 
@@ -69,7 +69,7 @@ Cursor Code Editor, OpenAI API
 3.	Conversational AI Platform – contributed to the UI of authentication module of a Next.js.
 
 
-**WeCare App, Full Stack Developer**  
+**WeCare App, Software Developer**  
 *September 2023 - April 2024*
 
 - in-depth study of the web app project build, gaining comprehensive knowledge of its architecture and functionalities, enhancing my understanding and application of full stack development principles;
@@ -78,7 +78,7 @@ Cursor Code Editor, OpenAI API
 
 - applied acquired knowledge to the development of front-end modules, contributing to the user interface improvements;
 
-**Self-employed, Full Stack Developer**  
+**Self-employed, Software Developer**  
 *August 2022 - August 2023* 
 
 - built and showcased React web applications for personal portfolio of projects in my GitHub;
