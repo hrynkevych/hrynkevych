@@ -5,7 +5,6 @@ I'm Mykhailo Hrynkevych, Software Developer based in Netherlands. I specialize, 
 ### 🚀 About Me
 
 - 🔭 I’m a **Software Developer**.
-- 👯 I’m looking to collaborate on **React projects**.
 - 📫 How to reach me: **mgrynkevych@outlook.com**
 - 😄 Pronouns: **he/him**
 - 🚀 My blog: **https://medium.com/@hrynkevych**
