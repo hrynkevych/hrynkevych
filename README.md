@@ -31,7 +31,7 @@ Cursor Code Editor, OpenAI API
 ### 💼 Professional Experience
 
 **Lumitech, Software Developer** 
-*December 2024 - present*
+*December 2024 - January 2026*
 
 1. Manufacturing Supply Management Platform for one of the world’s leading AI robotics companies specializing in general-purpose humanoid robots
 
